@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Python & Hadoop.**
 
-- 👯 I’m looking to collaborate on [My youtube](LifeOfVinod)
+- 👯 I’m looking to collaborate on [My youtube](https://www.youtube.com/@LifeofVinod)
 
 - 📝 I regularly post in LinkedIn about Data Analysis. [https://www.linkedin.com/in/vinoddkumardh/](https://www.linkedin.com/in/vinoddkumardh/)
 
@@ -31,7 +31,7 @@
 <a href="https://kaggle.com/dhanav3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dhanav3" height="30" width="40" /></a>
 <a href="https://fb.com/lifeofvinod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lifeofvinod" height="30" width="40" /></a>
 <a href="https://instagram.com/lifeofvinod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lifeofvinod" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/lifeofvinod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lifeofvinod" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@LifeofVinod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lifeofvinod" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
