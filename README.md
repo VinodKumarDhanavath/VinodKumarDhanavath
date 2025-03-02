@@ -8,21 +8,21 @@
 
 <p align="left"> <a href="https://twitter.com/vinodtrekker" target="blank"><img src="https://img.shields.io/twitter/follow/vinodtrekker?logo=twitter&style=for-the-badge" alt="vinodtrekker" /></a> </p>
 
-- 🔭 I’m currently Pursuing My Masters in Canada in **Data Analytics**
+- 🔭 I’m currently Pursuing My Masters in Canada in **Data Analytics & Cloud Cumputing**
 
-- 🌱 I’m currently learning **Python & Hadoop.**
+- 🌱 I’m currently learning **DevOps along with Cloud Ops**
 
 - 👯 I’m looking to collaborate on [My youtube](https://www.youtube.com/@LifeofVinod)
 
 - 📝 I regularly post in LinkedIn about Data Analysis. [https://www.linkedin.com/in/vinoddkumardh/](https://www.linkedin.com/in/vinoddkumardh/)
 
-- 💬 Ask me about **Excel, SQL & Tableau.**
+- 💬 Ask me about **Excel, SQL&Power-BI.**
 
 - 📫 How to reach me **Vinod.dh1893@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/vinoddkumardh/](https://www.linkedin.com/in/vinoddkumardh/)
 
-- ⚡ Fun fact **I think I am not serious..**
+- ⚡ Fun fact **I think I am Lazy Lad..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
