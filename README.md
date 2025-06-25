@@ -1,7 +1,7 @@
 ![logo](https://github.com/VinodKumarDhanavath/VinodKumarDhanavath/blob/main/Blue%20Modern%20Marketing%20Manager%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Vinod Kumar Dhanavath</h1>
-<h3 align="center">A Passionate Devops Engineer from Inida</h3>
+<h3 align="center">DevOps Engineer | AWS, Azure, Kubernetes | CI/CD & Data Analytics</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinodkumardhanavath&label=Profile%20views&color=0e75b6&style=flat" alt="vinodkumardhanavath" /> </p>
