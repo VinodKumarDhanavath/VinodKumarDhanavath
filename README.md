@@ -1,22 +1,39 @@
 ![logo](https://github.com/VinodKumarDhanavath/VinodKumarDhanavath/blob/main/Blue%20Modern%20Marketing%20Manager%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Vinod Kumar Dhanavath</h1>
-<h3 align="center">A Passionate Data Analyst from India</h3>
+<h3 align="center">A Passionate Devops Engineer from Inida</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinodkumardhanavath&label=Profile%20views&color=0e75b6&style=flat" alt="vinodkumardhanavath" /> </p>
 
 <p align="left"> <a href="https://twitter.com/vinodtrekker" target="blank"><img src="https://img.shields.io/twitter/follow/vinodtrekker?logo=twitter&style=for-the-badge" alt="vinodtrekker" /></a> </p>
 
-- 🔭 I’m currently Pursuing My Masters in Canada in **Data Analytics & Cloud Cumputing**
+I'm a **DevOps Engineer** with over 9 years of IT experience, including 5 years in DevOps and 4 years in Data Analytics & Business Analysis. I specialize in designing secure, scalable cloud infrastructure on **AWS** and **Azure**, deploying **CI/CD pipelines** with tools like **Terraform**, **GitHub Actions**, and **Jenkins**, and leveraging data analytics to drive business value.
 
-- 🌱 I’m currently learning **DevOps along with Cloud Ops**
+## 💼 What I Do
+- **DevOps & Cloud**: Build and manage cloud-native solutions using AWS (ECS, Lambda,RDS,EKS), Azure, and Kubernetes (GKE). Expertise in Infrastructure as Code (Terraform, CloudFormation) and CI/CD (Jenkins, GitHub Actions).
+- **Data Analytics**: Create actionable insights with Power BI, Tableau, and SQL, with a focus on compliance (HIPPA, PIPEDA) and forecasting models.
+- **Recent Work**: Led production-grade Spring Boot app deployments on GKE with CI/CD pipelines and Snyk security scans.
+
+## 🚀 Featured Projects
+- **[SpringBootKubernetesApp](https://github.com/vinod1089/SpringBootKubernetesApp)**: A Spring Boot app deployed on GKE with CI/CD (Jenkins, Docker) and Snyk vulnerability scanning.
+- **[EC2BuildServerSetup](https://github.com/vinod1089/EC2BuildServerSetup)**: Jenkins-based CI/CD server on AWS EC2 for automated builds and deployments.
+- **[DataAnalyticsDashboard](https://github.com/vinod1089/DataAnalyticsDashboard)**: Power BI dashboards for customer data analysis, driving 15% increase in engagement.
+
+## 🛠️ Key Skills & Tools
+- **DevOps & Cloud**: AWS (ECS, EC2, S3, IAM, Lambda, Glue, Athena), Azure, Terraform, CloudFormation, Kubernetes
+- **CI/CD**: GitHub Actions, Jenkins, Maven, Artifactory
+- **Languages & DBs**: Python, SQL, RDS, PostgreSQL
+- **Analytics**: Power BI, Tableau, Excel (Advanced), Salesforce
+- **Certifications**: Lean Six Sigma Green Belt
+
+- I’m open to collaborating on cloud transformation, DevOps automation, or data modernization projects!
 
 - 👯 I’m looking to collaborate on [My youtube](https://www.youtube.com/@LifeofVinod)
 
 - 📝 I regularly post in LinkedIn about Data Analysis. [https://www.linkedin.com/in/vinoddkumardh/](https://www.linkedin.com/in/vinoddkumardh/)
 
-- 💬 Ask me about **Excel, SQL&Power-BI.**
+- 💬 Ask me about **DevOps,AWS,GKE,Linux,Excel,SQL &Power-BI.**
 
 - 📫 How to reach me **Vinod.dh1893@gmail.com**
 
