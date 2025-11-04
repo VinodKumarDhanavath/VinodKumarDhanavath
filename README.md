@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/vinodtrekker" target="blank"><img src="https://img.shields.io/twitter/follow/vinodtrekker?logo=twitter&style=for-the-badge" alt="vinodtrekker" /></a> </p>
 
-I'm a **DevOps Engineer** with over 9 years of IT experience, including 5 years in DevOps and 4 years in Data Analytics & Business Analysis. I specialize in designing secure, scalable cloud infrastructure on **AWS** and **Azure**, deploying **CI/CD pipelines** with tools like **Terraform**, **GitHub Actions**, and **Jenkins**, and leveraging data analytics to drive business value.
+I'm a **DevOps Engineer** with over 9 years of IT experience, including 3 years in DevOps and 6 years in Data Analytics & Business Analysis. I specialize in designing secure, scalable cloud infrastructure on **AWS** and **Azure**, deploying **CI/CD pipelines** with tools like **Terraform**, **GitHub Actions**, and **Jenkins**, and leveraging data analytics to drive business value.
 
 ## 💼 What I Do
 - **DevOps & Cloud**: Build and manage cloud-native solutions using AWS (ECS, Lambda,RDS,EKS), Azure, and Kubernetes (GKE). Expertise in Infrastructure as Code (Terraform, CloudFormation) and CI/CD (Jenkins, GitHub Actions).
