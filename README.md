@@ -1,14 +1,14 @@
 ![logo](https://github.com/VinodKumarDhanavath/VinodKumarDhanavath/blob/main/Blue%20Modern%20Marketing%20Manager%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Vinod Kumar Dhanavath</h1>
-<h3 align="center">DevOps Engineer | AWS, Azure, Kubernetes | CI/CD & Data Analytics</h3>
+<h3 align="center">DevOps Engineer | AWS, Azure & GCP | Kubernetes | CI/CD & Data Analytics</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinodkumardhanavath&label=Profile%20views&color=0e75b6&style=flat" alt="vinodkumardhanavath" /> </p>
 
 <p align="left"> <a href="https://twitter.com/vinodtrekker" target="blank"><img src="https://img.shields.io/twitter/follow/vinodtrekker?logo=twitter&style=for-the-badge" alt="vinodtrekker" /></a> </p>
 
-I'm a **DevOps Engineer** with over 9 years of IT experience, including 3 years in DevOps and 6 years in Data Analytics & Business Analysis. I specialize in designing secure, scalable cloud infrastructure on **AWS** and **Azure**, deploying **CI/CD pipelines** with tools like **Terraform**, **GitHub Actions**, and **Jenkins**, and leveraging data analytics to drive business value.
+I'm a **DevOps Engineer** with over 9 years of IT experience,Seasoned DevOps and Cloud Engineer with 7+ years of experience in designing, implementing, and managing scalable cloud infrastructures and CI/CD pipelines. 2 years in Data Analytics & Business Analysis.Seeking to leverage deep expertise in AWS/Azure/GCP, containerization, automation, and infrastructure-as-code to optimize deployment processes, enhance system reliability, and drive operational efficiency in a forward-thinking organization.
 
 ## 💼 What I Do
 - **DevOps & Cloud**: Build and manage cloud-native solutions using AWS (ECS, Lambda,RDS,EKS), Azure, and Kubernetes (GKE). Expertise in Infrastructure as Code (Terraform, CloudFormation) and CI/CD (Jenkins, GitHub Actions).
