@@ -5,17 +5,14 @@
 <h1 align="center">Hi 👋, I'm Vinod Kumar Dhanavath</h1>
 <h3 align="center">DevOps / Cloud Engineer | DevOps · SRE · Platform Engineering | AWS · Azure · GCP</h3>
 
-<img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=vinodkumardhanavath&label=Profile%20views&color=0e75b6&style=flat" alt="vinodkumardhanavath" />
-</p>
-
-<p align="left">
-  <a href="https://twitter.com/vinodtrekker" target="blank">
-    <img src="https://img.shields.io/twitter/follow/vinodtrekker?logo=twitter&style=for-the-badge" alt="vinodtrekker" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vinodkumardhanavath&label=Profile%20views&color=39d353&style=for-the-badge" alt="profile views" />
+  <a href="https://twitter.com/vinodtrekker">
+    <img src="https://img.shields.io/twitter/follow/vinodtrekker?logo=x&style=for-the-badge&color=39d353&labelColor=000000" alt="follow on x" />
   </a>
 </p>
+
+<img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p>
 Seasoned <b>DevOps and Cloud Engineer</b> with 7+ years of experience designing, implementing, and managing scalable cloud infrastructures and CI/CD pipelines across AWS, Azure, and GCP. Deep hands-on with containerization, automation, and infrastructure-as-code — focused on optimizing deployment processes, enhancing system reliability, and driving operational efficiency. The role often crosses into <b>Site Reliability Engineering</b> (SLOs, error budgets, incident response) and <b>Platform Engineering</b> (reusable IaC frameworks, paved-path tooling), and I'm comfortable operating across all three.
@@ -34,115 +31,156 @@ Seasoned <b>DevOps and Cloud Engineer</b> with 7+ years of experience designing,
 
 <h2>🚀 Featured Projects</h2>
 
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>📊 <a href="https://github.com/VinodKumarDhanavath/datadog-sre-demo">datadog-sre-demo</a></h3>
+      <p>End-to-end Datadog observability stack on AWS — 99.5% SLO with multi-window error-budget burn alerts, instrumented APM/logs/traces, and on-call runbooks.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚙️ <a href="https://github.com/VinodKumarDhanavath/self-healing-eks">self-healing-eks</a></h3>
+      <p>Multi-environment EKS provisioned via Terraform, deployed through GitLab CI/CD, with a Lambda-based auto-remediator that resolves ~80% of common pod and node failures without paging on-call.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>📖 <a href="https://github.com/VinodKumarDhanavath/sre-incident-playbook">sre-incident-playbook</a></h3>
+      <p>Public reference for severity matrix, blameless postmortems, Incident Commander handoff, on-call rotation policy, and capacity planning.</p>
+    </td>
+  </tr>
+</table>
+
+<h2>🛠️ Tech Stack</h2>
+
+<p><b>Cloud Platforms</b></p>
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+</p>
+
+<p><b>Containers & Orchestration</b></p>
+<p>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white" />
+</p>
+
+<p><b>Infrastructure as Code & Automation</b></p>
+<p>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white" />
+</p>
+
+<p><b>CI/CD</b></p>
+<p>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
+</p>
+
+<p><b>Observability & Monitoring</b></p>
+<p>
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" />
+</p>
+
+<p><b>Languages & Scripting</b></p>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
+<p><b>Databases</b></p>
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
+</p>
+
+<p><b>OS & Version Control</b></p>
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<h2>📜 Certifications</h2>
+
+<p>
+  <img src="https://img.shields.io/badge/AWS%20DevOps%20Engineer%20Pro-In%20Progress-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E" />
+  <img src="https://img.shields.io/badge/Microsoft%20DevOps%20Expert-In%20Progress-0078D4?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Terraform%20Associate-In%20Progress-7B42BC?style=for-the-badge&logo=terraform&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Datadog%20Fundamentals-In%20Progress-632CA6?style=for-the-badge&logo=datadog&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Lean%20Six%20Sigma-Green%20Belt-009639?style=for-the-badge&labelColor=000000" />
+</p>
+
+<h2>📊 GitHub Stats</h2>
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=vinodkumardhanavath&show_icons=true&theme=merko&hide_border=true&count_private=true&include_all_commits=true" alt="github stats" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinodkumardhanavath&layout=compact&theme=merko&hide_border=true&langs_count=8" alt="top languages" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinodkumardhanavath&theme=merko&hide_border=true" alt="streak stats" />
+</p>
+
+<h2>🏆 Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vinodkumardhanavath&theme=matrix&no-frame=true&row=1&column=7&margin-w=10" alt="trophies" />
+</p>
+
+<h2>📫 Let's Connect</h2>
+
+<p>
+  <a href="https://www.linkedin.com/in/vinodkdhanavath">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="mailto:Vinod.dhanavath0418@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+  </a>
+  <a href="https://twitter.com/vinodtrekker">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="x" />
+  </a>
+  <a href="https://www.youtube.com/@LifeofVinod">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" />
+  </a>
+  <a href="https://kaggle.com/dhanav3">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle" />
+  </a>
+  <a href="https://instagram.com/lifeofvinod">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+  </a>
+  <a href="https://fb.com/lifeofvinod">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" />
+  </a>
+</p>
+
 <ul>
-  <li><b><a href="https://github.com/VinodKumarDhanavath/datadog-sre-demo">datadog-sre-demo</a></b>: End-to-end Datadog observability stack on AWS — 99.5% SLO with multi-window error-budget burn alerts, instrumented APM/logs/traces, and on-call runbooks. Reference for how I think about reliability instrumentation.</li>
-  <li><b><a href="https://github.com/VinodKumarDhanavath/self-healing-eks">self-healing-eks</a></b>: Multi-environment EKS provisioned via Terraform, deployed through GitLab CI/CD, with a Lambda-based auto-remediator that resolves ~80% of common pod and node failures without paging on-call.</li>
-  <li><b><a href="https://github.com/VinodKumarDhanavath/sre-incident-playbook">sre-incident-playbook</a></b>: Public reference for severity matrix, blameless postmortems, Incident Commander handoff, on-call rotation policy, and capacity planning. The playbook I wish every team had.</li>
-</ul>
-
-<h2>🛠️ Key Skills & Tools</h2>
-
-<ul>
-  <li><b>Cloud Platforms</b>: AWS, Microsoft Azure, GCP</li>
-  <li><b>Containerization & Orchestration</b>: Docker, Kubernetes (EKS, AKS, GKE, OpenShift), Helm, ECS, Fargate</li>
-  <li><b>Infrastructure as Code</b>: Terraform, CloudFormation, Pulumi, ARM Templates, Ansible</li>
-  <li><b>CI/CD</b>: Jenkins, GitLab CI/CD, Azure DevOps, GitHub Actions, AWS CodePipeline, ArgoCD</li>
-  <li><b>SRE Practices</b>: SLOs/SLIs, Error Budgets, Incident Command, Blameless Postmortems, Capacity Planning, On-Call Rotation</li>
-  <li><b>Observability</b>: Datadog, Prometheus, Grafana, ELK, AWS CloudWatch, Splunk, New Relic</li>
-  <li><b>Programming & Automation</b>: Python, Go, Bash, PowerShell, Groovy, Java (Tomcat-based apps)</li>
-  <li><b>Networking, Security & Compliance</b>: VPC, IAM, KMS, HashiCorp Vault, AWS Secrets Manager; PCI-DSS, SOC 2, OSFI</li>
-  <li><b>Databases</b>: MySQL, PostgreSQL, SQL Server, DynamoDB, Cosmos DB, MongoDB, Redshift, BigQuery</li>
-  <li><b>Certifications</b>: AWS Certified DevOps Engineer – Professional (in progress), Microsoft Certified: DevOps Engineer Expert (in progress), HashiCorp Terraform Associate (in progress), Datadog Fundamentals (in progress), Lean Six Sigma Green Belt</li>
-</ul>
-
-<h2>📫 About Me</h2>
-
-<ul>
-  <li>I'm open to collaborating on cloud platform builds, reliability engineering, and DevOps automation projects.</li>
-  <li>👯 Looking to collaborate on <a href="https://www.youtube.com/@LifeofVinod">my YouTube</a></li>
-  <li>📝 I regularly post on LinkedIn about DevOps, cloud, and reliability: <a href="https://www.linkedin.com/in/vinodkdhanavath">linkedin.com/in/vinodkdhanavath</a></li>
   <li>💬 Ask me about <b>DevOps, SRE, AWS, Azure, GCP, Kubernetes, Terraform, CI/CD & Incident Response</b></li>
-  <li>📫 Reach me at <b>Vinod.dhanavath0418@gmail.com</b></li>
+  <li>🤝 Open to collaborating on <b>cloud platform builds, reliability engineering, and DevOps automation</b></li>
   <li>⚡ Fun fact: <b>I think I am a Lazy Lad..</b></li>
 </ul>
 
-<h3 align="left">Connect with me:</h3>
+<hr/>
 
-<p align="left">
-  <a href="https://twitter.com/vinodtrekker" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vinodtrekker" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/vinodkdhanavath" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinodkdhanavath" height="30" width="40" />
-  </a>
-  <a href="https://kaggle.com/dhanav3" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dhanav3" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/lifeofvinod" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lifeofvinod" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/lifeofvinod" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lifeofvinod" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/@LifeofVinod" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lifeofvinod" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  </a>
-  <a href="https://www.ansible.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/>
-  </a>
-  <a href="https://www.datadoghq.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" alt="datadog" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-</p>
-
-<h3 align="left">📊 GitHub Stats:</h3>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinodkumardhanavath&show_icons=true&locale=en&layout=compact" alt="top-langs" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vinodkumardhanavath&show_icons=true&locale=en" alt="stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinodkumardhanavath&" alt="streak" />
-</p>
+<p align="center"><i>Making on-call boring and deployments forgettable.</i></p>
