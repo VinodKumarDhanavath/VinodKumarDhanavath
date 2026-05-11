@@ -6,7 +6,7 @@
 <h3 align="center">DevOps / Cloud Engineer | DevOps · SRE · Platform Engineering | AWS · Azure · GCP</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vinodkumardhanavath&label=Profile%20views&color=39d353&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=VinodKumarDhanavath&label=Profile%20views&color=39d353&style=for-the-badge" alt="profile views" />
   <a href="https://twitter.com/vinodtrekker">
     <img src="https://img.shields.io/twitter/follow/vinodtrekker?logo=x&style=for-the-badge&color=39d353&labelColor=000000" alt="follow on x" />
   </a>
@@ -119,11 +119,16 @@ Seasoned <b>DevOps and Cloud Engineer</b> with 7+ years of experience designing,
 <h2>📜 Certifications</h2>
 
 <p>
-  <img src="https://img.shields.io/badge/AWS%20DevOps%20Engineer%20Pro-In%20Progress-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E" />
-  <img src="https://img.shields.io/badge/Microsoft%20DevOps%20Expert-In%20Progress-0078D4?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Terraform%20Associate-In%20Progress-7B42BC?style=for-the-badge&logo=terraform&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Datadog%20Fundamentals-In%20Progress-632CA6?style=for-the-badge&logo=datadog&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/AWS%20AI%20Practitioner-Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E" />
   <img src="https://img.shields.io/badge/Lean%20Six%20Sigma-Green%20Belt-009639?style=for-the-badge&labelColor=000000" />
+</p>
+
+<p><i>In progress:</i></p>
+<p>
+  <img src="https://img.shields.io/badge/AWS%20DevOps%20Engineer%20Pro-In%20Progress-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=666666" />
+  <img src="https://img.shields.io/badge/Microsoft%20DevOps%20Expert-In%20Progress-0078D4?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=666666" />
+  <img src="https://img.shields.io/badge/Terraform%20Associate-In%20Progress-7B42BC?style=for-the-badge&logo=terraform&logoColor=white&labelColor=666666" />
+  <img src="https://img.shields.io/badge/Datadog%20Fundamentals-In%20Progress-632CA6?style=for-the-badge&logo=datadog&logoColor=white&labelColor=666666" />
 </p>
 
 <h2>📊 GitHub Stats</h2>
@@ -131,22 +136,26 @@ Seasoned <b>DevOps and Cloud Engineer</b> with 7+ years of experience designing,
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=vinodkumardhanavath&show_icons=true&theme=merko&hide_border=true&count_private=true&include_all_commits=true" alt="github stats" />
+      <a href="https://github.com/VinodKumarDhanavath">
+        <img src="https://github-readme-stats.vercel.app/api?username=VinodKumarDhanavath&show_icons=true&theme=merko&hide_border=true&rank_icon=github" alt="VinodKumarDhanavath github stats" />
+      </a>
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinodkumardhanavath&layout=compact&theme=merko&hide_border=true&langs_count=8" alt="top languages" />
+      <a href="https://github.com/VinodKumarDhanavath">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinodKumarDhanavath&layout=compact&theme=merko&hide_border=true&langs_count=8" alt="VinodKumarDhanavath top languages" />
+      </a>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinodkumardhanavath&theme=merko&hide_border=true" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VinodKumarDhanavath&theme=merko&hide_border=true" alt="VinodKumarDhanavath streak stats" />
 </p>
 
 <h2>🏆 Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vinodkumardhanavath&theme=matrix&no-frame=true&row=1&column=7&margin-w=10" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=VinodKumarDhanavath&theme=matrix&no-frame=true&row=1&column=7&margin-w=10" alt="trophies" />
 </p>
 
 <h2>📫 Let's Connect</h2>
