@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Vinod Kumar Dhanavath</h1>
-<h3 align="center">DevOps / Cloud Engineer | DevOps · SRE · Platform Engineering | AWS · Azure · GCP</h3>
+<h3 align="center">Senior Amazon Connect Developer | CCaaS Engineer | Genesys Cloud CX | AWS Serverless | Conversational AI</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VinodKumarDhanavath&label=Profile%20views&color=39d353&style=for-the-badge" alt="profile views" />
@@ -15,7 +15,7 @@
 <img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p>
-Seasoned <b>DevOps and Cloud Engineer</b> with 7+ years of experience designing, implementing, and managing scalable cloud infrastructures and CI/CD pipelines across AWS, Azure, and GCP. Deep hands-on with containerization, automation, and infrastructure-as-code — focused on optimizing deployment processes, enhancing system reliability, and driving operational efficiency. The role often crosses into <b>Site Reliability Engineering</b> (SLOs, error budgets, incident response) and <b>Platform Engineering</b> (reusable IaC frameworks, paved-path tooling), and I'm comfortable operating across all three.
+Amazon Connect Developer and CCaaS Engineer with <b>8+ years of experience</b> designing, developing, migrating, and supporting cloud contact center solutions across banking, finance, telecom, insurance, and BPO environments. Deep hands-on with <b>Amazon Connect contact flows, IVR design, Amazon Lex, Salesforce Service Cloud Voice, and AWS serverless services</b> (Lambda, API Gateway, DynamoDB, Kinesis, CloudWatch). Experienced in <b>Genesys Cloud CX operations and Genesys-to-Amazon Connect migrations</b>, CRM/CTI integrations, omnichannel voice/chat/email, and CI/CD delivery using CloudFormation, Terraform, Git, and Jenkins in regulated environments.
 </p>
 
 <br clear="right"/>
@@ -23,10 +23,12 @@ Seasoned <b>DevOps and Cloud Engineer</b> with 7+ years of experience designing,
 <h2>💼 What I Do</h2>
 
 <ul>
-  <li><b>DevOps & Cloud (core)</b>: Design and operate cloud-native solutions on AWS (EC2, ECS, Fargate, Lambda, RDS, EKS), Azure (VMs, AKS, Functions, Logic Apps, Data Factory), and GCP. IaC with Terraform, CloudFormation, Pulumi, and ARM templates. CI/CD on Jenkins, GitLab CI/CD, Azure DevOps, GitHub Actions, AWS CodePipeline.</li>
-  <li><b>Site Reliability Engineering</b>: Define SLOs/SLIs, manage error budgets, lead incident response, run blameless postmortems, and build self-healing automation that reduces toil and MTTR. Datadog, Prometheus, Grafana, ELK, CloudWatch, Splunk for observability.</li>
-  <li><b>Platform Engineering</b>: Build reusable Terraform modules, internal CI/CD frameworks, and self-service tooling so application teams ship faster without re-solving infrastructure problems.</li>
-  <li><b>Compliance-first delivery</b>: Hands-on with PCI-DSS, SOC 2, and OSFI controls embedded directly into pipelines — IAM least-privilege, KMS, HashiCorp Vault, AWS Secrets Manager.</li>
+  <li><b>Amazon Connect (core)</b>: Design and develop contact flows, IVR logic, ACD queues, routing profiles, contact attributes, callbacks, security profiles, and hours of operation for high-volume banking and enterprise contact centers.</li>
+  <li><b>Conversational AI & Self-Service</b>: Build Amazon Lex voice bots and chatbots for intent capture, self-service automation, fallback routing, and escalation to live agents. Leverage Contact Lens for speech analytics, sentiment review, and keyword detection.</li>
+  <li><b>CRM/CTI Integration</b>: Implement Salesforce Service Cloud Voice and ServiceNow integrations using REST APIs, OAuth, and webhooks — enabling screen-pop, automated interaction logging, case creation, and real-time customer context delivery.</li>
+  <li><b>AWS Serverless</b>: Build event-driven workflows using Lambda (Node.js/Python), API Gateway, DynamoDB, S3, and Kinesis for real-time routing, customer lookup, and post-call processing.</li>
+  <li><b>CCaaS Migration</b>: Lead Genesys Cloud CX to Amazon Connect migrations — analyzing existing IVR flows, routing logic, integrations, and dependencies, then redesigning and validating in the new environment.</li>
+  <li><b>Monitoring & Production Support</b>: Support production contact center operations using CloudWatch, Splunk, Contact Lens, CTR analysis, incident triage, RCA, and SLA-based resolution. IaC and CI/CD via CloudFormation, Terraform, Git, and Jenkins.</li>
 </ul>
 
 <h2>🚀 Featured Projects</h2>
@@ -34,101 +36,93 @@ Seasoned <b>DevOps and Cloud Engineer</b> with 7+ years of experience designing,
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>📊 <a href="https://github.com/VinodKumarDhanavath/datadog-sre-demo">datadog-sre-demo</a></h3>
-      <p>End-to-end Datadog observability stack on AWS — 99.5% SLO with multi-window error-budget burn alerts, instrumented APM/logs/traces, and on-call runbooks.</p>
+      <h3>📞 <a href="https://github.com/VinodKumarDhanavath/amazon-connect-ivr-modernization">amazon-connect-ivr-modernization</a></h3>
+      <p>Intelligent IVR modernization for a Canadian bank — dynamic contact flows with customer segmentation, Lambda-based real-time API lookups, Contact Lens analytics, and Splunk alerting. Reduced misrouted transfers by ~25% and agent screen-load from 45s to under 8s.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>⚙️ <a href="https://github.com/VinodKumarDhanavath/self-healing-eks">self-healing-eks</a></h3>
-      <p>Multi-environment EKS provisioned via Terraform, deployed through GitLab CI/CD, with a Lambda-based auto-remediator that resolves ~80% of common pod and node failures without paging on-call.</p>
+      <h3>🤖 <a href="https://github.com/VinodKumarDhanavath/lex-self-service-automation">lex-self-service-automation</a></h3>
+      <p>Amazon Lex-powered self-service journeys for banking intents — loan status, EMI schedule, payment confirmation — with Lambda fulfillment, structured fallback logic, and Cyara-validated test coverage. Achieved 18–22% call deflection on targeted intents.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>📖 <a href="https://github.com/VinodKumarDhanavath/sre-incident-playbook">sre-incident-playbook</a></h3>
-      <p>Public reference for severity matrix, blameless postmortems, Incident Commander handoff, on-call rotation policy, and capacity planning.</p>
+      <h3>🔄 <a href="https://github.com/VinodKumarDhanavath/genesys-to-connect-migration">genesys-to-connect-migration</a></h3>
+      <p>End-to-end Genesys Cloud CX to Amazon Connect migration — IVR flow redesign, Salesforce SCV CTI integration, CloudFormation/Terraform IaC, Jenkins CI/CD, and post-go-live hypercare. Replaced a 4–6 week vendor change cycle with in-house workflows updatable in hours.</p>
     </td>
   </tr>
 </table>
 
 <h2>🛠️ Tech Stack</h2>
 
-<p><b>Cloud Platforms</b></p>
+<p><b>CCaaS Platforms</b></p>
 <p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20Connect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Genesys%20Cloud%20CX-FF4F1F?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Avaya%20Aura-CC0000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/NICE%20CXone-00A3E0?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aspect%20Unified%20IP-555555?style=for-the-badge&logoColor=white" />
 </p>
 
-<p><b>Containers & Orchestration</b></p>
+<p><b>AWS Serverless & Cloud</b></p>
 <p>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white" />
-</p>
-
-<p><b>Infrastructure as Code & Automation</b></p>
-<p>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white" />
-</p>
-
-<p><b>CI/CD</b></p>
-<p>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
-  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
-</p>
-
-<p><b>Observability & Monitoring</b></p>
-<p>
-  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/API%20Gateway-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kinesis-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" />
+</p>
+
+<p><b>Conversational AI & Analytics</b></p>
+<p>
+  <img src="https://img.shields.io/badge/Amazon%20Lex-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Contact%20Lens-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/NLP%20%2F%20Intent%20Routing-4A90D9?style=for-the-badge&logoColor=white" />
+</p>
+
+<p><b>CRM & Integration</b></p>
+<p>
+  <img src="https://img.shields.io/badge/Salesforce%20Service%20Cloud%20Voice-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Salesforce%20CRM-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs%20%2F%20OAuth-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Webhooks-FF6C37?style=for-the-badge&logoColor=white" />
+</p>
+
+<p><b>IaC, CI/CD & DevOps</b></p>
+<p>
+  <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+<p><b>Monitoring, Testing & Reporting</b></p>
+<p>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cyara-0033A0?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Amazon%20QuickSight-8C4FFF?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
 <p><b>Languages & Scripting</b></p>
 <p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-</p>
-
-<p><b>Databases</b></p>
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
-</p>
-
-<p><b>OS & Version Control</b></p>
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSON%20%2F%20REST-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 <h2>📜 Certifications</h2>
 
 <p>
+  <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E" />
+  <img src="https://img.shields.io/badge/AWS%20Machine%20Learning-Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E" />
   <img src="https://img.shields.io/badge/AWS%20AI%20Practitioner-Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E" />
+  <img src="https://img.shields.io/badge/AWS%20Generative%20AI-Trained%20%26%20Tested-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E" />
+  <img src="https://img.shields.io/badge/Amazon%20Connect-Implementation%20Training-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E" />
   <img src="https://img.shields.io/badge/Lean%20Six%20Sigma-Green%20Belt-009639?style=for-the-badge&labelColor=000000" />
-</p>
-
-<p><i>In progress:</i></p>
-<p>
-  <img src="https://img.shields.io/badge/AWS%20DevOps%20Engineer%20Pro-In%20Progress-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=666666" />
-  <img src="https://img.shields.io/badge/Microsoft%20DevOps%20Expert-In%20Progress-0078D4?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=666666" />
-  <img src="https://img.shields.io/badge/Terraform%20Associate-In%20Progress-7B42BC?style=for-the-badge&logo=terraform&logoColor=white&labelColor=666666" />
-  <img src="https://img.shields.io/badge/Datadog%20Fundamentals-In%20Progress-632CA6?style=for-the-badge&logo=datadog&logoColor=white&labelColor=666666" />
 </p>
 
 <h2>📊 GitHub Stats</h2>
@@ -164,7 +158,7 @@ Seasoned <b>DevOps and Cloud Engineer</b> with 7+ years of experience designing,
   <a href="https://www.linkedin.com/in/vinodkdhanavath">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  <a href="mailto:Vinod.dhanavath0418@gmail.com">
+  <a href="mailto:vinoddhanavath278@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
   </a>
   <a href="https://twitter.com/vinodtrekker">
@@ -185,11 +179,11 @@ Seasoned <b>DevOps and Cloud Engineer</b> with 7+ years of experience designing,
 </p>
 
 <ul>
-  <li>💬 Ask me about <b>DevOps, SRE, AWS, Azure, GCP, Kubernetes, Terraform, CI/CD & Incident Response</b></li>
-  <li>🤝 Open to collaborating on <b>cloud platform builds, reliability engineering, and DevOps automation</b></li>
+  <li>💬 Ask me about <b>Amazon Connect, Genesys Cloud CX, CCaaS migrations, Amazon Lex, Salesforce Service Cloud Voice, AWS serverless, and contact center production operations</b></li>
+  <li>🤝 Open to collaborating on <b>contact center builds, CCaaS migrations, conversational AI, and IVR modernization</b></li>
   <li>⚡ Fun fact: <b>I think I am a Lazy Lad..</b></li>
 </ul>
 
 <hr/>
 
-<p align="center"><i>Making on-call boring and deployments forgettable.</i></p>
+<p align="center"><i>Making contact centers smarter, migrations smoother, and customer journeys that actually work.</i></p>
